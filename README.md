@@ -1,7 +1,7 @@
 ﻿# Secure microservice with Keycloak
 
 Comment faire pour sécuriser votre microservice developper avec spring boot ? Pour cela nous allons utilisé keycloak. 
-![enter image description here]()
+![enter image description here](ArchitectureGlobaleGatewayeEreukaMicroService.jpg)
 
 **Keycloak** est un produit logiciel open source permettant la connexion unique avec la gestion des identités "Identity management"  et la gestion des accès "Gestion des accès" destinées aux applications et services modernes. Depuis mars 2018, ce projet communautaire JBoss est sous la direction de Red Hat, qui l'utilise comme projet en amont (développement logiciel)") pour leur produit RH-SSO.
 
